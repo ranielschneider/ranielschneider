@@ -21,13 +21,6 @@ Passionate about building modern mobile experiences. I focus on the native Andro
 
 ---
 
-### 🚀 Highlighted Projects
-
-*   **[TvdeTracker](https://github.com/ranielschneider/TvdeTracker)**: A productivity application designed for location tracking, route metrics, and database persistence.
-*   **[WhatsApp Clone](https://github.com/ranielschneider/whatsapp-clone)**: A project implementing complex modern UI components, reactive states, and clean layers.
-
----
-
 ### 🤝 Let's Connect!
 
 <p align="left">
