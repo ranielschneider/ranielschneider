@@ -13,7 +13,7 @@ Building native Android applications with <strong>Kotlin</strong> and <strong>Je
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,html,css" height="48" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,html,css" height="48" />
 </p>
 
 - Android Development
