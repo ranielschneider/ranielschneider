@@ -1,34 +1,26 @@
-# Hi, I'm Raniel Schneider! 
+Hi, I'm Raniel Schneider 👋
 
-### 📱 Android Developer
-Passionate about building modern mobile experiences. I focus on the native Android ecosystem, leveraging scalable architecture patterns and clean code principles to build robust, user-centric applications.
+📱 Android Developer
 
----
+Building native Android applications with Kotlin, Jetpack Compose and modern Android architecture.
 
-### 🛠 Tech Stack & Tools
+──────────────────────────
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="45" height="45" style="margin-right: 10px;"/>
-</p>
+🛠 Tech Stack
 
-*   **Core Focus:** Native Android development using modern Jetpack Compose and MVVM architecture.
-*   **Web Basics:** Solid foundation in structured HTML5 and responsive CSS3.
-*   **Best Practices:** Clean code implementation, SOLID principles, and Git version control.
+[Kotlin] [Compose] [Android] [Java] [Git]
 
----
+──────────────────────────
 
-### 🤝 Let's Connect!
+🎯 Currently
 
-<p align="left">
-  <a href="https://linkedin.com/in/raniel-schneider" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ranielschneider@hotmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
-  </a>
-</p>
+• Building Android projects
+• Studying Clean Architecture
+• Improving problem solving
+• Looking for my first Android Developer opportunity
 
+──────────────────────────
+
+📍 Porto, Portugal
+
+LinkedIn | Email
