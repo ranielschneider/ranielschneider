@@ -1,26 +1,36 @@
-Hi, I'm Raniel Schneider 👋
+<h1 align="center">Hi, I'm Raniel Schneider </h1>
 
-📱 Android Developer
+<p align="center">
+  <strong>Android Developer | Kotlin & Jetpack Compose</strong>
+</p>
 
-Building native Android applications with Kotlin, Jetpack Compose and modern Android architecture.
+<p align="center">
+Building native Android applications with <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>, with a focus on clean architecture, maintainable code and modern Android development.
+</p>
 
-──────────────────────────
+<br>
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
-[Kotlin] [Compose] [Android] [Java] [Git]
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,html,css" height="48" />
+</p>
 
-──────────────────────────
+- Android Development
+- MVVM
+- Clean Architecture
+- Git & GitHub
 
-🎯 Currently
+<br>
 
-• Building Android projects
-• Studying Clean Architecture
-• Improving problem solving
-• Looking for my first Android Developer opportunity
+## 📫 Connect
 
-──────────────────────────
-
-📍 Porto, Portugal
-
-LinkedIn | Email
+<p align="left">
+  <a href="https://linkedin.com/in/raniel-schneider" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ranielschneider@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
+  </a>
+</p>
